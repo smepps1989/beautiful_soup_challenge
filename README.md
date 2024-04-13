@@ -10,13 +10,13 @@ It was found that there are 12 months in a Martian year according to the collect
 
 The chart below represents the average temperature by Martian month.
 
-<img src="/Resources/images/avg_temp.png" width=50% height=50%>
+<img src="/Resources/images/avg_temp.png" width=75% height=75%>
 
 The warmest Martian month appears to be month 8 while the coldest month appears to be Month 3.
 
 This chart represents the average atmospheric pressure by month on Mars for the days collected.
 
-<img src=/"Resources/images/avg_pressure.png" width=50% height=50%>
+<img src="/Resources/images/avg_pressure.png" width=50% height=50%>
 
 To find the number of terrestrial days in a Martian year, the dates of data were grouped by month. Assuming that the data were documented in chronological order and with the knowledge that a full Martian year is 12 months, the minimum date of each month corresponds to the first terrestrial year of the data collected. This was found to be 8-16-2012, or the sixth month in a martian year. <br/>
 
